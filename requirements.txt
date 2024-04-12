@@ -1,0 +1,10 @@
+pandas==2.2.1
+psycopg2==2.9.9
+fastapi==0.109.0
+python-dotenv==1.0.1
+python-Levenshtein==0.25.1
+openai==1.16.2
+databases==0.8.0
+SQLAlchemy==1.4.51
+async-timeout==4.0.3
+asyncpg==0.29.0
